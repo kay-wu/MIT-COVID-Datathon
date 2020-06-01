@@ -1,0 +1,308 @@
+77002
+Total Confirmed Cases:   280
+77003
+Total Confirmed Cases:   26
+77004
+Total Confirmed Cases:   94
+77005
+Total Confirmed Cases:   32
+77006
+Total Confirmed Cases:   67
+77007
+Total Confirmed Cases:   67
+77008
+Total Confirmed Cases:   61
+77009
+Total Confirmed Cases:   74
+77010
+Total Confirmed Cases:   1
+77011
+Total Confirmed Cases:   70
+77012
+Total Confirmed Cases:   54
+77013
+Total Confirmed Cases:   46
+77014
+Total Confirmed Cases:   96
+77015
+Total Confirmed Cases:   134
+77016
+Total Confirmed Cases:   97
+77017
+Total Confirmed Cases:   82
+77018
+Total Confirmed Cases:   52
+77019
+Total Confirmed Cases:   49
+77020
+Total Confirmed Cases:   76
+77021
+Total Confirmed Cases:   125
+77022
+Total Confirmed Cases:   60
+77023
+Total Confirmed Cases:   102
+77024
+Total Confirmed Cases:   72
+77025
+Total Confirmed Cases:   65
+77026
+Total Confirmed Cases:   94
+77027
+Total Confirmed Cases:   29
+77028
+Total Confirmed Cases:   76
+77029
+Total Confirmed Cases:   56
+77030
+Total Confirmed Cases:   72
+77031
+Total Confirmed Cases:   80
+77032
+Total Confirmed Cases:   86
+77033
+Total Confirmed Cases:   146
+77034
+Total Confirmed Cases:   78
+77035
+Total Confirmed Cases:   134
+77036
+Total Confirmed Cases:   409
+77037
+Total Confirmed Cases:   57
+77038
+Total Confirmed Cases:   61
+77039
+Total Confirmed Cases:   73
+77040
+Total Confirmed Cases:   114
+77041
+Total Confirmed Cases:   96
+77042
+Total Confirmed Cases:   108
+77043
+Total Confirmed Cases:   83
+77044
+Total Confirmed Cases:   138
+77045
+Total Confirmed Cases:   168
+77046
+Total Confirmed Cases:   3
+77047
+Total Confirmed Cases:   123
+77048
+Total Confirmed Cases:   81
+77049
+Total Confirmed Cases:   60
+77050
+Total Confirmed Cases:   15
+77051
+Total Confirmed Cases:   79
+77053
+Total Confirmed Cases:   95
+77054
+Total Confirmed Cases:   71
+77055
+Total Confirmed Cases:   173
+77056
+Total Confirmed Cases:   39
+77057
+Total Confirmed Cases:   200
+77058
+Total Confirmed Cases:   20
+77059
+Total Confirmed Cases:   18
+77060
+Total Confirmed Cases:   92
+77061
+Total Confirmed Cases:   54
+77062
+Total Confirmed Cases:   32
+77063
+Total Confirmed Cases:   116
+77064
+Total Confirmed Cases:   132
+77065
+Total Confirmed Cases:   55
+77066
+Total Confirmed Cases:   79
+77067
+Total Confirmed Cases:   107
+77068
+Total Confirmed Cases:   24
+77069
+Total Confirmed Cases:   30
+77070
+Total Confirmed Cases:   103
+77071
+Total Confirmed Cases:   103
+77072
+Total Confirmed Cases:   227
+77073
+Total Confirmed Cases:   159
+77074
+Total Confirmed Cases:   158
+77075
+Total Confirmed Cases:   94
+77076
+Total Confirmed Cases:   85
+77077
+Total Confirmed Cases:   87
+77078
+Total Confirmed Cases:   52
+77079
+Total Confirmed Cases:   45
+77080
+Total Confirmed Cases:   242
+77081
+Total Confirmed Cases:   177
+77082
+Total Confirmed Cases:   150
+77083
+Total Confirmed Cases:   140
+77084
+Total Confirmed Cases:   294
+77085
+Total Confirmed Cases:   75
+77086
+Total Confirmed Cases:   75
+77087
+Total Confirmed Cases:   172
+77088
+Total Confirmed Cases:   174
+77089
+Total Confirmed Cases:   93
+77090
+Total Confirmed Cases:   111
+77091
+Total Confirmed Cases:   112
+77092
+Total Confirmed Cases:   86
+77093
+Total Confirmed Cases:   125
+77094
+Total Confirmed Cases:   12
+77095
+Total Confirmed Cases:   95
+77096
+Total Confirmed Cases:   98
+77098
+Total Confirmed Cases:   21
+77099
+Total Confirmed Cases:   243
+77336
+Total Confirmed Cases:   2
+77338
+Total Confirmed Cases:   180
+77339
+Total Confirmed Cases:   71
+77345
+Total Confirmed Cases:   14
+77346
+Total Confirmed Cases:   119
+77354
+Total Confirmed Cases:   0
+77355
+Total Confirmed Cases:   0
+77357
+Total Confirmed Cases:   0
+77362
+Total Confirmed Cases:   0
+77365
+Total Confirmed Cases:   2
+77373
+Total Confirmed Cases:   145
+77375
+Total Confirmed Cases:   89
+77377
+Total Confirmed Cases:   59
+77379
+Total Confirmed Cases:   100
+77380
+Total Confirmed Cases:   1
+77381
+Total Confirmed Cases:   1
+77382
+Total Confirmed Cases:   0
+77386
+Total Confirmed Cases:   2
+77388
+Total Confirmed Cases:   56
+77389
+Total Confirmed Cases:   52
+77396
+Total Confirmed Cases:   160
+77401
+Total Confirmed Cases:   23
+77407
+Total Confirmed Cases:   1
+77429
+Total Confirmed Cases:   143
+77433
+Total Confirmed Cases:   143
+77447
+Total Confirmed Cases:   15
+77449
+Total Confirmed Cases:   365
+77450
+Total Confirmed Cases:   65
+77477
+Total Confirmed Cases:   9
+77484
+Total Confirmed Cases:   7
+77489
+Total Confirmed Cases:   27
+77493
+Total Confirmed Cases:   118
+77494
+Total Confirmed Cases:   28
+77498
+Total Confirmed Cases:   0
+77502
+Total Confirmed Cases:   79
+77503
+Total Confirmed Cases:   31
+77504
+Total Confirmed Cases:   51
+77505
+Total Confirmed Cases:   38
+77506
+Total Confirmed Cases:   79
+77507
+Total Confirmed Cases:   0
+77520
+Total Confirmed Cases:   65
+77521
+Total Confirmed Cases:   105
+77523
+Total Confirmed Cases:   1
+77530
+Total Confirmed Cases:   73
+77532
+Total Confirmed Cases:   37
+77535
+Total Confirmed Cases:   2
+77536
+Total Confirmed Cases:   61
+77546
+Total Confirmed Cases:   31
+77547
+Total Confirmed Cases:   16
+77562
+Total Confirmed Cases:   8
+77565
+Total Confirmed Cases:   0
+77571
+Total Confirmed Cases:   75
+77573
+Total Confirmed Cases:   4
+77581
+Total Confirmed Cases:   5
+77584
+Total Confirmed Cases:   1
+77586
+Total Confirmed Cases:   24
+77587
+Total Confirmed Cases:   22
+77598
+Total Confirmed Cases:   35
